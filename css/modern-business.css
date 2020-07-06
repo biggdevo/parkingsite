@@ -1,0 +1,75 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/templates/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+ /* font-family: 'Cinzel Decorative', cursive;
+ font-family: 'Mukta', sans-serif; */
+body {
+  font-family: "Cinzel Decorative";
+  padding-top: 56px;
+  background-image: -moz-linear-gradient(90deg, rgba(0, 255, 179, 0.68), rgba(81, 0, 255, 0.91));
+
+background-image: -webkit-linear-gradient(90deg, rgba(0, 255, 179, 0.68), rgba(81, 0, 255, 0.91));
+
+background-image: linear-gradient(90deg, rgba(0, 255, 179, 0.68), rgba(81, 0, 255, 0.91));
+}
+a.navbar-brand, a.nav-link {
+  color: rgb(39, 38, 36);
+  ;
+}
+.emails {
+  color: rgb(39, 38, 36);
+
+}
+span{ 
+  font-size: 4rem;
+}
+
+
+.font { 
+  font-family: "Mukta";
+}
+
+.navbar {
+  /* background-color: rgba(211, 2, 12, 0.65); */
+  /* background-image: -moz-linear-gradient(90deg, rgba(0, 255, 179, 0.68), rgba(81, 0, 255, 0.91));
+
+  background-image: -webkit-linear-gradient(90deg, rgba(0, 255, 179, 0.68), rgba(81, 0, 255, 0.91));
+  
+  background-image: linear-gradient(90deg, rgba(0, 255, 179, 0.68), rgba(81, 0, 255, 0.91)); */
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.prcard {
+  
+}
+
+.bgslider {
+  background-color: rgba(47, 58, 55, 0.6);
+  /* background-image: -moz-linear-gradient(90deg, rgba(0, 255, 179, 0.4), );
+
+  background-image: -webkit-linear-gradient(90deg, rgba(0, 255, 179, 0.4),);
+  
+  background-image: linear-gradient(90deg, rgba(0, 255, 179, 0.4)); */
+}
+
+/* .lower { 
+background-color: aqua;
+  
+
+
+} */
